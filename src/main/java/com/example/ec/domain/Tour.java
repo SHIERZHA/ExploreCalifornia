@@ -147,6 +147,7 @@ public class Tour implements Serializable{
         this.region = region;
     }
 
+
     @Override
     public String toString() {
         return "Tour{" +
